@@ -8,7 +8,7 @@
 
 **Abstract:** Browsing behavior and visits to website such as donation platforms, social media, streaming service providers, and even online gambling can reflect individuals' life-style, while, as research shows, life-style itself is a predictor of individuals' political issue preferences and attitudes. In this paper, we linked 19,000,000 website visits generated from web tracking of 1,000 users in Germany to self-reported political attitudes to investigate whether website choices can predict individuals’ political orientations.
 
-<center><img src="images/SVD_att.png"/></center>
+<center><img src="images/results.jpeg"/></center>
 
 ---
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
