@@ -11,13 +11,13 @@
 <center><img src="images/results.jpeg"/></center>
 
 ---
-### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
+### Online News and Protest Participation in a Political Context: Evidence from Self-Reported Cross-Sectional Data
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+[![Pre-print](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3126711)
 
-<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
+<div style="text-align: justify">The availability of alternative information via online news sources is often said to induce social discontent, especially in states, where traditional media are under state control. But does this relation really exist, and is it universal? In contrast to previous studies, where generalized Internet use is treated as a proxy for online news consumption and general political participation is a proxy for protest participation, we render a test of relationship specifically between online news and protest participation. We explore survey data from WVS for 48 nations in 2010-2014.</div>
 
-<center><img src="images/BERT-classification.png"/></center>
+<center><img src="images/protests.jpeg"/></center>
 
 ---
 ### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
