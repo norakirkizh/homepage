@@ -13,7 +13,7 @@
 ---
 ### Online News and Protest Participation in a Political Context: Evidence from Self-Reported Cross-Sectional Data
 
-[![Pre-print](https://img.shields.io/badge/PDF-Pre-Print-blue?logo=adobe-acrobat-reader&logoColor=white)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3126711)
+[![Pre-print](https://img.shields.io/badge/ssrn-pre--print-lightgrey)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3126711)
 
 <div style="text-align: justify">The availability of alternative information via online news sources is often said to induce social discontent, especially in states, where traditional media are under state control. But does this relation really exist, and is it universal? In contrast to previous studies, where generalized Internet use is treated as a proxy for online news consumption and general political participation is a proxy for protest participation, we render a test of relationship specifically between online news and protest participation. We explore survey data from WVS for 48 nations in 2010-2014.</div>
 
