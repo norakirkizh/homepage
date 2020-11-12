@@ -8,7 +8,7 @@
 [![View Article](https://img.shields.io/badge/View%20article-IJPP-red)](https://journals.sagepub.com/doi/full/10.1177/1940161220907018)
 [![View code](https://img.shields.io/badge/View%20code-OSF-blue)](https://osf.io/5pe27/)
 
-<div style="text-align: justify">**Abstract:** Research has shown that citizens with populist attitudes evaluate the news media more negatively, and there is also suggestive evidence that they rely less on established news sources like the legacy press. However, due to data limitations, there is still no solid evidence whether populist citizens have skewed news diets in the contemporary high-choice digital media environment. In this paper, we rely on the selective exposure framework and investigate the relationship between populist attitudes and the consumption of various types of online news. To test our theoretical assumptions, we link 150 million Web site visits by 7,729 Internet users in France, Germany, Italy, Spain, the United Kingdom, and the United States to their responses in an online survey.</div>
+**Abstract:** Research has shown that citizens with populist attitudes evaluate the news media more negatively, and there is also suggestive evidence that they rely less on established news sources like the legacy press. However, due to data limitations, there is still no solid evidence whether populist citizens have skewed news diets in the contemporary high-choice digital media environment. In this paper, we rely on the selective exposure framework and investigate the relationship between populist attitudes and the consumption of various types of online news. To test our theoretical assumptions, we link 150 million Web site visits by 7,729 Internet users in France, Germany, Italy, Spain, the United Kingdom, and the United States to their responses in an online survey.
 
 ---
 
@@ -37,7 +37,7 @@
 [![Pre-print](https://img.shields.io/badge/SSRN-Pre--print-lightgrey)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3126711) 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/norakirkizh/multi-level-regressions)
 
-<div style="text-align: justify">The availability of alternative information via online news sources is often said to induce social discontent, especially in states, where traditional media are under state control. But does this relation really exist, and is it universal? In contrast to previous studies, where generalized Internet use is treated as a proxy for online news consumption and general political participation is a proxy for protest participation, we render a test of relationship specifically between online news and protest participation. We explore survey data from WVS for 48 nations in 2010-2014.</div>
+**Abstract:** The availability of alternative information via online news sources is often said to induce social discontent, especially in states, where traditional media are under state control. But does this relation really exist, and is it universal? In contrast to previous studies, where generalized Internet use is treated as a proxy for online news consumption and general political participation is a proxy for protest participation, we render a test of relationship specifically between online news and protest participation. We explore survey data from WVS for 48 nations in 2010-2014.
 
 <center><img src="images/protests.jpeg"/></center>
 
