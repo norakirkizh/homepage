@@ -5,6 +5,8 @@
 
 ### Populist Attitudes and Selective Exposure to Online News: A Cross-Country Analysis Combining Web Tracking and Surveys
 
+(Published)
+
 [![View Article](https://img.shields.io/badge/View%20article-IJPP-red)](https://journals.sagepub.com/doi/full/10.1177/1940161220907018)
 [![View code](https://img.shields.io/badge/View%20code-OSF-blue)](https://osf.io/5pe27/)
 
