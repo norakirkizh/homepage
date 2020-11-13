@@ -4,7 +4,7 @@
 ## Media and Political Behavior
 
 ### Populist Attitudes and Selective Exposure to Online News: A Cross-Country Analysis Combining Web Tracking and Surveys
-(2020) jointly with Sebastian Stier, Caterina Froio, Ralf Schroeder, <i>International Journal of Press/Politics.</i>
+(2020) jointly with Sebastian Stier, Caterina Froio, Ralf Schroeder, <i>International Journal of Press/Politics</i>, 25(3), 426-446.
 
 [![View Article](https://img.shields.io/badge/View%20article-IJPP-red)](https://journals.sagepub.com/doi/full/10.1177/1940161220907018)
 [![View code](https://img.shields.io/badge/View%20code-OSF-blue)](https://osf.io/5pe27/)
