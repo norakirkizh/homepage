@@ -4,8 +4,7 @@
 ## Media and Political Behavior
 
 ### Populist Attitudes and Selective Exposure to Online News: A Cross-Country Analysis Combining Web Tracking and Surveys
-
-(Published)
+(2020) jointly with Sebastian Stier, Caterina Froio, Ralf Schroeder, <i>International Journal of Press/Politics.</i>
 
 [![View Article](https://img.shields.io/badge/View%20article-IJPP-red)](https://journals.sagepub.com/doi/full/10.1177/1940161220907018)
 [![View code](https://img.shields.io/badge/View%20code-OSF-blue)](https://osf.io/5pe27/)
@@ -15,6 +14,7 @@
 ---
 
 ### Biased Media and Foreign Policy Preferences: Evidence from a Natural experiment in the European Union
+(Working paper)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/norakirkizh/quasi-experiment/blob/master/Biased_Media_and_Foreign_Policy_Preferences_Paper_and_Appendix.pdf)
 
@@ -26,6 +26,7 @@
 ## Democracy and Technology
 
 ### Bad News for Democracy? Browsing Behavior Can Signal Political Attitudes
+(Submitted)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/norakirkizh/ml_politics/blob/master/Browsing_Behavior_Can_Signal_Political_Attitudes.pdf)
 
@@ -35,6 +36,7 @@
 
 ---
 ### Online News and Protest Participation in a Political Context: Evidence from Self-Reported Cross-Sectional Data
+(2020) jointly with Olessia Koltsova, Accepted in <i>Social Media + Society.</i>
 
 [![Pre-print](https://img.shields.io/badge/SSRN-Pre--print-lightgrey)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3126711) 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/norakirkizh/multi-level-regressions)
