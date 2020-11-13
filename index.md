@@ -1,4 +1,4 @@
-# Research projects
+# Research
 ---
 
 ## Media and Political Behavior
