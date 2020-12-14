@@ -36,7 +36,7 @@
 
 ---
 ### Online News and Protest Participation in a Political Context: Evidence from Self-Reported Cross-Sectional Data
-(2020) jointly with Olessia Koltsova, Accepted in <i>Social Media + Society.</i>
+(2020) jointly with Olessia Koltsova, Forthcoming in <i>Social Media + Society.</i>
 
 [![Pre-print](https://img.shields.io/badge/SSRN-Pre--print-lightgrey)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3126711) 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/norakirkizh/multi-level-regressions)
