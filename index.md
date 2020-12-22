@@ -7,7 +7,7 @@
 (2020) jointly with Sebastian Stier, Caterina Froio, Ralf Schroeder, <i>International Journal of Press/Politics</i>, 25(3), 426-446.
 
 [![View Article](https://img.shields.io/badge/View%20article-IJPP-red)](https://journals.sagepub.com/doi/full/10.1177/1940161220907018)
-[![Code and data](https://img.shields.io/badge/View%20code-OSF-blue)](https://osf.io/5pe27/)
+[![Code and data](https://img.shields.io/badge/code%20and%20data-OSF-blue)](https://osf.io/5pe27/)
 
 <p style="text-align:justify;">Research has shown that citizens with populist attitudes evaluate the news media more negatively, and there is also suggestive evidence that they rely less on established news sources like the legacy press. However, due to data limitations, there is still no solid evidence whether populist citizens have skewed news diets in the contemporary high-choice digital media environment. In this paper, we rely on the selective exposure framework and investigate the relationship between populist attitudes and the consumption of various types of online news. To test our theoretical assumptions, we link 150 million website visits by 7,729 Internet users in France, Germany, Italy, Spain, the United Kingdom, and the United States to their responses in an online survey.</p>
 
