@@ -13,10 +13,10 @@
 
 ---
 
-### Biased Media and Foreign Policy Preferences: Evidence from a Natural experiment in the European Union
+### Effects of Biased Media on Foreign Policy Preferences: Evidence from a Natural experiment
 (Working paper)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/norakirkizh/quasi-experiment/blob/master/Biased_Media_and_Foreign_Policy_Preferences_Paper_and_Appendix.pdf)
+[![View on OSF](https://osf.io/arqtx/)](https://osf.io/arqtx/)
 
 <p style="text-align:justify;">The expansion of globalization has made a country's prosperity increasingly dependant on foreign politics. This article shows how Russian television's inflammatory coverage of European politics affected the vote during the European Union membership referendum in Latvia. For identification, I use plausibly exogenous variation of the signal from Russian analog TV towers that was available during the referendum to Latvian counties located close to the Russian border. The analysis of the electoral data showed that in counties with the Russian television reception, votes ``for" outperformed votes ``against" joining the European Union compared to counties without the reception.</p>
 
