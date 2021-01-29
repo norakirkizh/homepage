@@ -13,10 +13,12 @@
 
 ---
 
-### Effects of Biased Media on Foreign Policy Preferences: Evidence from a Natural experiment
+### Effects of Biased Media on Foreign Policy Preferences: Evidence from a Natural Experiment
 (Working paper)
 
-[![View on OSF](https://img.shields.io/badge/View%20on%20OSF-Pre--print-lightgrey)](https://osf.io/arqtx/)
+[![View pre-print](https://img.shields.io/badge/Pre--print-OSF-lightgrey)](https://osf.io/arqtx/) 
+[![Code and data](https://img.shields.io/badge/code%20and%20data-OSF-blue)](https://osf.io/hk8yz/) 
+
 
 <p style="text-align:justify;">The expansion of globalization has made a country's prosperity increasingly dependant on foreign politics. This article shows how Russian television's inflammatory coverage of European politics affected the vote during the European Union membership referendum in Latvia. For identification, I use plausibly exogenous variation of the signal from Russian analog TV towers that was available during the referendum to Latvian counties located close to the Russian border. The analysis of the electoral data showed that in counties with the Russian television reception, votes ``for" outperformed votes ``against" joining the European Union compared to counties without the reception.</p>
 
@@ -28,7 +30,7 @@
 ### Bad News for Democracy? Browsing Behavior Can Signal Political Attitudes
 (Working paper) jointly with Roberto Ulloa, Sebastian Stier, and J&uuml;rgen Pfeffer.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/norakirkizh/ml_politics/blob/master/Browsing_Behavior_Can_Signal_Political_Attitudes.pdf)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_paper-blue?logo=GitHub)](https://github.com/norakirkizh/ml_politics/blob/master/Browsing_Behavior_Can_Signal_Political_Attitudes.pdf)
 
 <p style="text-align:justify;">Browsing behavior and visits to website such as donation platforms, social media, streaming service providers, and even online gambling can reflect individuals' life-style, while, as research shows, life-style itself is a predictor of individuals' political issue preferences and attitudes. In this paper, we linked 19,000,000 website visits generated from web tracking of 1,000 users in Germany to self-reported political attitudes to investigate whether website choices can predict individuals’ political orientations.</p>
 
