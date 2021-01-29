@@ -39,7 +39,7 @@
 (2021) jointly with Olessia Koltsova, <i>Social Media + Society</i>, 7(1): <a href="https://doi.org/10.1177/2056305120984456">DOI</a>
 
 [![Pre-print](https://img.shields.io/badge/View%20article-SM%2BS-red)](https://doi.org/10.1177/2056305120984456) 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/norakirkizh/multi-level-regressions)
+[![View on GitHub](https://img.shields.io/badge/GitHub-code_and_data-blue?logo=GitHub)](https://github.com/norakirkizh/multi-level-regressions)
 
 <p style="text-align:justify;">The availability of alternative information via online news sources is often said to induce social discontent, especially in states, where traditional media are under state control. But does this relation really exist, and is it universal? In contrast to previous studies, where generalized Internet use is treated as a proxy for online news consumption and general political participation is a proxy for protest participation, we render a test of relationship specifically between online news and protest participation. We explore survey data from WVS for 48 nations in 2010-2014.</p>
 
