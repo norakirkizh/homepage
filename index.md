@@ -28,7 +28,7 @@
 ## Democracy and Technology
 
 ### Bad News for Democracy? Browsing Behavior Can Signal Political Attitudes
-(Working paper) jointly with Roberto Ulloa, Sebastian Stier, and J&uuml;rgen Pfeffer.
+(Submitted) jointly with Roberto Ulloa, Sebastian Stier, and J&uuml;rgen Pfeffer.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_paper-blue?logo=GitHub)](https://github.com/norakirkizh/ml_politics/blob/master/Browsing_Behavior_Can_Signal_Political_Attitudes.pdf)
 
