@@ -1,5 +1,16 @@
 # Research
 ---
+## Survey experiments
+
+### Issue trade-offs and the politics of representation: Experimental evidence from four European democracies
+(2020) jointly with Caterina Froio and Sebastian Stier, <i>Accepted in the European Journal of Political Research</i>
+
+[![View Article](https://img.shields.io/badge/View%20article-IJPP-red)](https://osf.io/5n2dr/)
+[![Code and data](https://img.shields.io/badge/code%20and%20data-OSF-blue)](https://osf.io/8p54d/?view_only=1d6343b2123c40a1a516ce1ad56e7b44)
+
+<p style="text-align:justify;">To investigate the strength of issue preferences among radical left, radical right and mainstream party voters and the willingness to compromise on their most important issues, we conducted a conjoint survey experiment with 2,000 participants in France, Germany, Italy and Spain. The voting scenario in the experiment featured proposals on salient political issues and different (non)populist stances on political representation. The findings of this study have implications for the electoral prospects of mainstream and radical parties when trying to reposition themselves in the diversifying issue space of contemporary democracies. As such, understanding how voters navigate issue cross-pressures helps to explain the broader dynamics that are (re)configuring political conflict and voting behavior in Europe.</p>
+
+---
 
 ## Media and Political Behavior
 
