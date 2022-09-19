@@ -10,6 +10,8 @@
 
 <p style="text-align:justify;">To investigate the strength of issue preferences among radical left, radical right and mainstream party voters and the willingness to compromise on their most important issues, we conducted a conjoint survey experiment with 2,000 participants in France, Germany, Italy and Spain. The voting scenario in the experiment featured proposals on salient political issues and different (non)populist stances on political representation. The findings of this study have implications for the electoral prospects of mainstream and radical parties when trying to reposition themselves in the diversifying issue space of contemporary democracies. As such, understanding how voters navigate issue cross-pressures helps to explain the broader dynamics that are (re)configuring political conflict and voting behavior in Europe.</p>
 
+<center><img src="images/plot_ejpr.jpeg"/></center>
+
 ---
 
 ## Media and Political Behavior
