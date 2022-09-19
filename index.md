@@ -3,7 +3,7 @@
 ## Survey experiments
 
 ### Issue trade-offs and the politics of representation: Experimental evidence from four European democracies
-(2020) jointly with Caterina Froio and Sebastian Stier, <i>Accepted in the European Journal of Political Research</i>
+(2022) jointly with Caterina Froio and Sebastian Stier, <i>Accepted in the European Journal of Political Research</i>
 
 [![View Article](https://img.shields.io/badge/View%20article-IJPP-red)](https://osf.io/5n2dr/)
 [![Code and data](https://img.shields.io/badge/code%20and%20data-OSF-blue)](https://osf.io/8p54d/?view_only=1d6343b2123c40a1a516ce1ad56e7b44)
@@ -39,7 +39,7 @@
 ## Democracy and Technology
 
 ### Can Web Browsing Histories Predict Users' Attitudes Towards Immigrants, Climate Change, and Democracy?
-(Submitted) jointly with Roberto Ulloa, Sebastian Stier, and J&uuml;rgen Pfeffer.
+(Workimg paper) jointly with Roberto Ulloa, Sebastian Stier, and J&uuml;rgen Pfeffer.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_paper-blue?logo=GitHub)](https://github.com/norakirkizh/ml_politics/blob/master/Browsing_Behavior_Can_Signal_Political_Attitudes.pdf)
 
