@@ -3,7 +3,7 @@
 ## Survey experiments
 
 ### Issue trade-offs and the politics of representation: Experimental evidence from four European democracies
-(2022) jointly with Caterina Froio and Sebastian Stier, <i>the European Journal of Political Research</i> <a href="https://doi.org/10.1177/2056305120984456">DOI</a>
+(2022) jointly with Caterina Froio and Sebastian Stier, <i>the European Journal of Political Research</i> <a href="https://doi.org/10.1111/1475-6765.12558">DOI</a>
 
 [![View Article](https://img.shields.io/badge/View%20article-EJPR-red)](https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12558)
 [![Code and data](https://img.shields.io/badge/code%20and%20data-OSF-blue)](https://osf.io/8p54d/?view_only=1d6343b2123c40a1a516ce1ad56e7b44)
