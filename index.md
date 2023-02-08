@@ -49,8 +49,6 @@
 
 <center><img src="images/results.jpeg"/></center>
 
-{% include varImp.html %}
-
 ---
 ### Online News and Protest Participation in a Political Context: Evidence from Self-Reported Cross-Sectional Data
 (2021) jointly with Olessia Koltsova, <i>Social Media + Society</i>, 7(1): <a href="https://doi.org/10.1177/2056305120984456">DOI</a>
